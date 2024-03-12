@@ -1,0 +1,29 @@
+GET http://localhost:5000/matkuls
+
+###
+GET http://localhost:5000/matkuls/3
+
+###
+POST http://localhost:5000/matkuls
+Content-Type: application/json
+
+{
+    "tanggal": "10-03-2024",
+    "matkul": "Komunikasi Data",
+    "tugas": "Critical Book Report",
+    "status": "Selesai"
+}
+
+###
+PATCH http://localhost:5000/matkuls/1
+Content-Type: application/json
+
+{
+    "tanggal": "10-03-2024",
+    "matkul": "Pemrograman Web",
+    "tugas": "Latihan JS",
+    "status": "Belum Selesai"
+}
+
+###
+DELETE  http://localhost:5000/matkuls/2
