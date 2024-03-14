@@ -1,5 +1,5 @@
 Cara Menjalankan Project:
-1.buka xampp, jalankan Apache dan Mysql
+1. buka xampp, jalankan Apache dan Mysql
 2. Ekspor Database yang ada di folder database melalui phpmyAdmin
 3. buka terminal di vscode lalu ketik cd backend
 4. jika terminal sudah berada di folder backend, lalu ketik nodemon index, lalu enter.
