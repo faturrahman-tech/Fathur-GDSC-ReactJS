@@ -1,5 +1,5 @@
 Cara Menjalankan Project:
-1. Ekspor Database melalui phpmyAdmin
+1. Ekspor Database yang ada di folder database melalui phpmyAdmin
 2. buka terminal di vscode lalu ketik cd backend
 3. jika terminal sudah berada di folder backend, lalu ketik nodemon index, lalu enter.
 4. lalu buka terminal baru, tetapi terminal sebelumnya jangan dihapus.
