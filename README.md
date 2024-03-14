@@ -5,7 +5,7 @@ Cara Menjalankan Project:
 4. jika terminal sudah berada di folder backend, lalu ketik nodemon index, lalu enter.
 5. lalu buka terminal baru, tetapi terminal sebelumnya jangan dihapus.
 6. ketik cd frontend
-7. jika terminal sudah berada di folder frontend, lalu ketik npm start tunggu beberapa menit maka otomatis akan tertuju ke browser react.
+7. jika terminal sudah berada di folder frontend, lalu ketik npm start, tunggu beberapa menit maka otomatis akan tertuju ke browser react.
 8. website sudah terlihat.
 
 Fitur - Fitur yang terdapat di website:
