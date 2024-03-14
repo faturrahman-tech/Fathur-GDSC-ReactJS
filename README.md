@@ -1,6 +1,6 @@
 Cara Menjalankan Project:
 1. Buka xampp, jalankan Apache dan Mysql
-2. Ekspor Database yang ada di folder database melalui phpmyAdmin
+2. Ekspor Database yang ada di folder database melalui phpmyAdmin. dengan nama database react.db
 3. Buka terminal di vscode lalu ketik cd backend
 4. Jika terminal sudah berada di folder backend, lalu ketik nodemon index, lalu enter. Jika belum menginstall nodemon maka dapat menginstallnya dengan cara ketik: npm i -g nodemon.
 5. Lalu buka terminal baru, tetapi terminal sebelumnya jangan dihapus.
